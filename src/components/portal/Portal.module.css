@@ -1,0 +1,28 @@
+.list,
+.card {
+  width: 100%;
+  padding: 0 20px;
+  margin: 10px 0;
+}
+input {
+  width: calc(100% - 80px);
+  padding: 5px 20px;
+  outline: none;
+}
+textarea {
+  margin: 10px 0;
+  width: calc(100% - 80px);
+  outline: none;
+  padding: 20px;
+  height: 100px;
+}
+.button {
+  border: none;
+  outline: none;
+  background: #306674;
+  color: white;
+  padding: 0.5rem;
+  margin: 0 20px;
+  letter-spacing: 1px;
+  cursor: pointer;
+}

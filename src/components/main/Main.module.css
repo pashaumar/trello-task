@@ -1,0 +1,12 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.header {
+  margin: 10px 0;
+}
+.listContainer {
+  width: 100%;
+  display: flex;
+}
